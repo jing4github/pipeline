@@ -15,7 +15,7 @@ namespace pipeline
     {
         public Startup(IConfiguration configuration)
         {
-            //change
+            //change - push after pipeline create on the server
             Configuration = configuration;
         }
 
